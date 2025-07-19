@@ -1,2 +1,5 @@
 # cyberlynk
-A walkthough of the assignments done
+A collection of tasks done 
+https://www.cyberlynk.io/
+Blue con events 
+https://www.linkedin.com/company/cyber-bluecon/posts/?feedView=all
