@@ -1,1 +1,19 @@
 
+🔍 This Project Includes
+Email samples in .eml format
+Header analysis to check if the email was spoofed
+Decoded content from suspicious links and files (HTML, PDF)
+Wireshark traffic capture to see if the email or attachment tried to connect to a malicious website
+Threat lookup using tools like VirusTotal and AbuseIPDB
+
+🧰 Tools Used
+Email tools (header analysis, MXToolbox)
+CyberChef (for decoding hidden or obfuscated content)
+VirusTotal and AbuseIPDB (to check for malicious files and domains)
+Wireshark (to monitor what happens when the link or attachment is opened)
+
+✅ What I Learned
+How to safely examine phishing emails
+How attackers try to steal credentials
+How to trace and decode suspicious links
+How to spot signs of malicious behavior in email traff
